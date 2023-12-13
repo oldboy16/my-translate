@@ -1,0 +1,19 @@
+.box{
+    display: flex;
+    transform: translateX(-20px);
+}
+.titles{
+    display: flex;
+}
+.wrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10%;
+}
+input{
+    border: none;
+    outline: none;
+    border-bottom: 3px solid blue;
+    width: 300px;
+}
